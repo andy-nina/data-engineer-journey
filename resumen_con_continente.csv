@@ -1,0 +1,9 @@
+Country,total_confirmados,total_muertes,total_recuperados,tasa_mortalidad_%,Continente
+Brazil,30250077,662185,17771228,2.19,Sudamérica
+Chile,3528626,57231,1575377,1.62,Sudamérica
+Colombia,6089540,139745,4615354,2.29,Sudamérica
+Ecuador,865585,35513,443880,4.1,Sudamérica
+India,43042097,521751,30974748,1.21,Asia
+Mexico,5726668,323938,2270427,5.66,Norteamérica
+Peru,3555139,212619,2086086,5.98,Sudamérica
+US,80625120,988609,6298082,1.23,Norteamérica
